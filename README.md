@@ -1,4 +1,4 @@
-## Hello I'am Arikhadi 👋
+## Hello I'am Arik 👋
 
 
 <!--
