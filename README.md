@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hallo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNlNWFhNnBnZ3d1YWk1ZHRsNHdpeHg4dHF5a3VtMzV0eTVieDU1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GoY8Ns0w9mdsmcLDc/giphy.gif)
